@@ -1,0 +1,8 @@
+com\clay\model\MessageType.class
+com\clay\handler\MyChatHandler.class
+com\clay\model\User.class
+com\clay\model\MessageRequest.class
+com\clay\handler\MyHandler.class
+com\clay\inializer\MyChatInializer.class
+com\clay\server\MyChatServer.class
+com\clay\model\UserInfo.class
